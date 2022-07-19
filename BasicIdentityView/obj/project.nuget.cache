@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e7JJYSXA3NFZum1gLiEfe6+imDEviUDk7spUXiRx9R7YwGOhsK9guSt6BHlgQxsQ7awNW6/iyHUBv7Xb361P/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A Simeon Chuks\\Desktop\\ConsumePratice\\BasicIdentityAPI\\BasicIdentityView\\BasicIdentityView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A Simeon Chuks\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

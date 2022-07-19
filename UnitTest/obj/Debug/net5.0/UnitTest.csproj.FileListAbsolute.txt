@@ -1,0 +1,5 @@
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\UnitTest\obj\Debug\net5.0\UnitTest.csproj.AssemblyReference.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\UnitTest\obj\Debug\net5.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\UnitTest\obj\Debug\net5.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\UnitTest\obj\Debug\net5.0\UnitTest.AssemblyInfo.cs
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\UnitTest\obj\Debug\net5.0\UnitTest.csproj.CoreCompileInputs.cache

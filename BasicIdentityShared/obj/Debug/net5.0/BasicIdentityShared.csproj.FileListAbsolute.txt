@@ -1,0 +1,12 @@
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\bin\Debug\net5.0\BasicIdentityShared.deps.json
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\bin\Debug\net5.0\BasicIdentityShared.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\bin\Debug\net5.0\ref\BasicIdentityShared.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\bin\Debug\net5.0\BasicIdentityShared.pdb
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\obj\Debug\net5.0\BasicIdentityShared.csproj.AssemblyReference.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\obj\Debug\net5.0\BasicIdentityShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\obj\Debug\net5.0\BasicIdentityShared.AssemblyInfoInputs.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\obj\Debug\net5.0\BasicIdentityShared.AssemblyInfo.cs
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\obj\Debug\net5.0\BasicIdentityShared.csproj.CoreCompileInputs.cache
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\obj\Debug\net5.0\BasicIdentityShared.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\obj\Debug\net5.0\ref\BasicIdentityShared.dll
+C:\Users\A Simeon Chuks\Desktop\ConsumePratice\BasicIdentityAPI\BasicIdentityShared\obj\Debug\net5.0\BasicIdentityShared.pdb
